@@ -22,8 +22,10 @@ li:hover::before{
   height: 4px;
   width: 100%;
   background: #2a68ff;
+  bottom: -10px;
   right: 0;
   color: #2a68ff;
+  transition: .8s ease-in-out;
 }
 .icon{
   cursor: pointer;
