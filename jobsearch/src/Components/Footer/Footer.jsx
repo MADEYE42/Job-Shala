@@ -6,7 +6,7 @@ import { FaLinkedin } from "react-icons/fa";
 
 const Footer = () => {
   return (
-    <div className=' w-full footer p-[5rem] mb-4 bg-blueColor rounded-[10px] gap-8 grid grid-cols-5 m-auto items-center justify-center'>
+    <div className=' w-full footer p-[5rem] mb-4 bg-blueColor rounded-[10px] gap-8 grid grid-cols-5 items-start m-auto items-center justify-center'>
       <div className="">
       <div className="logoDiv">
             <h1 className="logo text-[25px] text-white pb-[1.5rem]"><strong>Job</strong>Shala</h1>
