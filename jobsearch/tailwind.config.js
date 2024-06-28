@@ -11,7 +11,7 @@ export default {
         'greyIsh':'#f1f4f8',
         'cardShadow':'#f7f8f9',
         'greyIsh':'#252b36',
-        'grey':'#d3d3d3' 
+        'grey':'#EFEFF0' 
       }
     },
   },
