@@ -56,7 +56,7 @@ const Search = () => {
                 <option>Advanced</option>
             </select>
           </div>
-          <span className='text-[#a1a1a1] cursor-pointer hover:text-black'>Clear-All</span>
+          <span className='text-[#a1a1a1] cursor-pointer hover:text-black'>Clear All</span>
         </div>
     </div>
   )
